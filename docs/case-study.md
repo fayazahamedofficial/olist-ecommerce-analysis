@@ -2,7 +2,7 @@
 
 
 
-\*\*Analyst:\*\* \[Fayaz Ahamed]
+\*\*Analyst: Fayaz Ahamed
 
 \*\*Tools:\*\* SQL • BigQuery • Looker Studio • GitHub
 
